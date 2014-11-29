@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.07pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{Apresenta\IeC {\c c}\IeC {\~a}o}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Sum\IeC {\'a}rio}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Resumo}{3}{0}{1}
+\beamer@sectionintoc {2}{Introdu\IeC {\c c}\IeC {\~a}o}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Aprendizado Semi-Supervisionado}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Grafos e Redes Complexas}{18}{0}{2}
+\beamer@sectionintoc {3}{Aprendizado Semi-Supervisionado em Grafos}{42}{0}{3}
+\beamer@subsectionintoc {3}{1}{Propaga\IeC {\c c}\IeC {\~a}o de R\IeC {\'o}tulo}{44}{0}{3}
+\beamer@subsectionintoc {3}{2}{Mincut}{73}{0}{3}
+\beamer@sectionintoc {4}{Conclus\IeC {\~a}o}{84}{0}{4}
+\beamer@sectionintoc {5}{Principais Refer\IeC {\^e}ncias}{85}{0}{5}

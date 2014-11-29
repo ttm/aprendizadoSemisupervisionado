@@ -1,0 +1,864 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.6.24)  6 JUL 2010 11:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ssl-bip-pln-monografia.tex
+(./ssl-bip-pln-monografia.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./acl2010.sty
+Conference Style for ACL 2005 -- released Octobe 11, 2004
+\titlebox=\skip43
+) (/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip11
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Portuguese'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(./ssl-bip-pln-monografia.aux
+
+LaTeX Warning: Label `ferrer' multiply defined.
+
+)
+\openout1 = `ssl-bip-pln-monografia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 33.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen115
+\scratchbox=\box28
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen116
+\MPnumerator=\count105
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 35.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 1460) in paragraph at lines 37--38
+[]\OT1/ptm/m/n/12 Neste tra-balho a t[]ecnica de apren-
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 dizado semi-supervisionado baseada
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 em grafos chamada \OT1/ptm/m/it/12 Propaga[][]ao
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 detec[][]ao de po-lar-i-dade (sen-ti-mento
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 neg-a-tivo/positivo) em fala e texto.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 Para tre-chos de fala, ob-tive-mos
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 grande ex-ito com um au-mento de
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 20% das classifica[][]oes cor-re-tas em
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 dos tex-tos, o ganho foi mod-er-ado,
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 em compara[][]ao com os m[]etodos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 mais tradi-cionais de apren-dizado
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 37--38
+\OT1/ptm/m/n/12 m[]etodos em utiliza[][]ao pelo nosso
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 42--43
+\OT1/ptm/m/n/12 Transportando mul-ti-plas informa[][]oes con-
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 49--50
+\OT1/ptm/m/n/12 Por \OT1/ptm/m/it/12 lin-guagem nat-u-ral \OT1/ptm/m/n/12 enten
+de-se lin-gua-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 49--50
+\OT1/ptm/m/n/12 gens uti-lizadas por seres hu-manos para a
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 49--50
+\OT1/ptm/m/n/12 as lin-gua-gens nat-u-rais se de-sen-volvem de
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 51--52
+[]\OT1/ptm/m/it/12 Processamento de Lin-guagem Nat-u-ral
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 51--52
+\OT1/ptm/m/n/12 ressaltar que a \OT1/ptm/m/it/12 produ[][]ao \OT1/ptm/m/n/12 de
+stas es-tru-turas
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 1259) in paragraph at lines 53--54
+\OT1/ptm/m/n/12 PLN est[]a bas-tante di-fun-dida. Tradu-tores
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 62.
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/ptm/m/n/12 Discurso - O es-tudo de unidades
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 77--78
+\OT1/ptm/m/n/12 mente feita em ter-mos do es-pec-tro e do
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 79--80
+\OT1/ptm/m/n/12 cen-trada abaixo de $\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cm
+r/m/n/12 7$ \OT1/ptm/m/n/12 no es-pec-tro-grama,
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 79--80
+\OT1/ptm/m/n/12 dada a taxa de amostragem de $\OT1/cmr/m/n/12 44\OML/cmm/m/it/1
+2 :\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 kHz$\OT1/ptm/m/n/12 ,
+ []
+
+[2] <spec2.png, id=17, 586.8324pt x 442.2924pt>
+File: spec2.png Graphic file (type png)
+ <use spec2.png>
+Overfull \hbox (15.64267pt too wide) in paragraph at lines 83--84
+ [] 
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 89--90
+[]\OT1/ptm/m/n/12 Desta forma, pode-mos apreen-der car-
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 89--90
+\OT1/ptm/m/n/12 ac-ter[]^^Psticas lo-cais como a in-ten-si-dade, a
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 89--90
+\OT1/ptm/m/n/12 frequ[]encia fun-da-men-tal e a propor[][]ao de
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 89--90
+\OT1/ptm/m/n/12 t[]^^Ppica en-tre 20-100$\OML/cmm/m/it/12 ms$\OT1/ptm/m/n/12 ),
+ cada s[]^^Plaba, cada
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 89--90
+\OT1/ptm/m/n/12 ou constru[][]oes maiores. Out-ras car-ac-
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 91--92
+\OT1/ptm/m/n/12 Segue uma breve descri[][]ao de cada uma
+ []
+
+
+Underfull \vbox (badness 2229) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 100--101
+\OT1/ptm/m/n/12 tamb[]em com a frequ[]encia de acordo
+ []
+
+[3 <./spec2.png>]
+Underfull \hbox (badness 2837) in paragraph at lines 102--103
+[]\OT1/ptm/m/n/12 A banda e a frequ[]encia m[]edia dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+[]\OT1/ptm/m/n/12 Nosso tra-balho est[]a con-cen-trado na
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 112--113
+\OT1/ptm/m/n/12 O \OT1/ptm/m/it/12 apren-dizado semi-supervisionado \OT1/ptm/m/
+n/12 (ASS)
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 120--121
+[]\OT1/ptm/m/n/12 Uma distin[][]ao im-por-tante que se faz []e
+ []
+
+<ssl-help.png, id=24, 180.09914pt x 73.4217pt>
+File: ssl-help.png Graphic file (type png)
+ <use ssl-help.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ssl-nhelp.png, id=25, 144.6798pt x 114.9051pt>
+File: ssl-nhelp.png Graphic file (type png)
+ <use ssl-nhelp.png>
+Underfull \hbox (badness 2065) in paragraph at lines 136--136
+\OT1/ptm/m/n/12 a cor-reta separa[][]ao das classes. Fonte:
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 1043) in paragraph at lines 146--147
+[]\OT1/ptm/m/n/12 Ambos estes m[]etodos s[]ao uti-liza-dos h[]a
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 148--149
+[]\OT1/ptm/m/n/12 M[]etodos mais re-centes in-cluem o \OT1/ptm/m/it/12 co-
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 150--151
+\OT1/ptm/m/n/12 supervisionado baseado em grafos atraiu
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 153--154
+\OT1/ptm/m/n/12 plexas. Nesta parte []e dado uma breve
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 157--158
+\OT1/ptm/m/n/12 mente o mais im-por-tante []e o de es-peci-
+ []
+
+[5 <./ssl-help.png> <./ssl-nhelp.png>]
+Underfull \hbox (badness 1092) in paragraph at lines 167--168
+\OT1/ptm/m/n/12 plexas como sendo grafos de grandes di-
+ []
+
+
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]\OT1/ptm/m/n/12 Atualmente, as re-des com-plexas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/ptm/m/n/12 s[]ao apli-cadas com sucesso a di-ver-sas
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 182--183
+[]\OT1/ptm/m/n/12 areas (Costa et al., 2008), o que in-clui
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 188--189
+[]\OT1/ptm/m/n/12 De es-pe-cial im-port[]ancia []e a forma de
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 205--205
+[]\OT1/ptm/m/n/12 Tabela 1: Pr[]e-processamento da senten[]a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]\OT1/ptm/m/n/12 Pre-processed
+ []
+
+! Undefined control sequence.
+l.210 \noalign{\smallskip}\svhline
+                                  \noalign{\smallskip}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+[]\OT1/ptm/m/n/9 The pro-jec-tion of the
+ []
+
+
+Overfull \hbox (4.08316pt too wide) in paragraph at lines 207--216
+ [][] 
+ []
+
+
+Underfull \vbox (badness 4441) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 218--219
+\OT1/ptm/m/n/12 atrav[]es da remo[][]ao das chamadas \OT1/ptm/m/it/12 stop-
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 218--219
+\OT1/ptm/m/it/12 words \OT1/ptm/m/n/12 e de toda pontua[][]ao do texto.
+ []
+
+<data.pdf, id=37, 583.17876pt x 585.18625pt>
+File: data.pdf Graphic file (type pdf)
+ <use data.pdf> [7 <./data.pdf>]
+Underfull \hbox (badness 1783) in paragraph at lines 250--251
+\OT1/ptm/m/n/12 D., 2010) e scripts pr[]oprios em Praat e
+ []
+
+! Undefined control sequence.
+l.268 \noalign{\smallskip}\svhline
+                                  \noalign{\smallskip}
+? 
+
+Overfull \hbox (2.03879pt too wide) in paragraph at lines 284--284
+[]\OT1/ptm/m/n/9 Precis[]ao
+ []
+
+
+Overfull \hbox (7.5379pt too wide) in paragraph at lines 284--284
+[]\OT1/ptm/m/n/9 Cobertura
+ []
+
+
+Overfull \hbox (2.03879pt too wide) in paragraph at lines 284--284
+[]\OT1/ptm/m/n/9 Precis[]ao
+ []
+
+
+Overfull \hbox (7.5379pt too wide) in paragraph at lines 284--285
+[]\OT1/ptm/m/n/9 Cobertura
+ []
+
+! Undefined control sequence.
+l.285 \noalign{\smallskip}\svhline
+                                  \noalign{\smallskip}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]\OT1/ptm/m/n/9 Bayesian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]\OT1/ptm/m/n/9 Decision
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[]\OT1/ptm/m/n/9 Decision
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]\OT1/ptm/m/n/9 Naive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]\OT1/ptm/m/n/9 Propaga[][]ao
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 297--298
+\OT1/ptm/m/n/12 Escolhemos tamb[]em 50% das re-des para
+ []
+
+! Undefined control sequence.
+l.306 \noalign{\smallskip}\svhline
+                                  \noalign{\smallskip}
+? 
+
+Overfull \hbox (2.03879pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/9 Precis[]ao
+ []
+
+
+Overfull \hbox (7.5379pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/9 Cobertura
+ []
+
+
+Overfull \hbox (2.03879pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/9 Precis[]ao
+ []
+
+
+Overfull \hbox (7.5379pt too wide) in paragraph at lines 320--321
+[]\OT1/ptm/m/n/9 Cobertura
+ []
+
+! Undefined control sequence.
+l.321 \noalign{\smallskip}\svhline
+                                  \noalign{\smallskip}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/9 Naive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/9 Propaga[][]ao
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 331--332
+\OT1/ptm/m/n/12 desmisti-fi-cou o uso do apren-dizado semi-
+ []
+
+[8]
+Underfull \hbox (badness 1924) in paragraph at lines 333--334
+\OT1/ptm/m/n/12 nas pesquisas que es-ta-mos re-al-izando no
+ []
+
+[9]
+Underfull \hbox (badness 1533) in paragraph at lines 424--428
+\OT1/ptm/m/n/10 Com-plex net-work anal-y-sis of free-energy land-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 442--446
+\OT1/ptm/m/n/10 Reg-u-lar-iza-tion and semi-supervised learn-ing on
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 508--512
+[]\OT1/ptm/m/n/10 Sidarova, J. and Mc-Donough, J. and Ba-dia, T.
+ []
+
+[10] (./ssl-bip-pln-monografia.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 182 ({)
+### simple group (level 1) entered at line 182 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2339 strings out of 495061
+ 27432 string characters out of 1182621
+ 100874 words of memory out of 3000000
+ 5481 multiletter control sequences out of 15000+50000
+ 25665 words of font info for 54 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 27i,13n,24p,1067b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-t
+exlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/u
+rw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on ssl-bip-pln-monografia.pdf (10 pages, 754676 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

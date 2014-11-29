@@ -1,0 +1,43 @@
+Este pacote contém toda produção de Renato Fabbri na disciplina Redes Complexas-SCC5882
+ministrada no ICMC-USP pelos Profs. Dr. Zhao Liang e Dr. Alneu de Andrade Lopes
+no primeiro semestre de 2010.
+
+Conteúdo:
+
+- Monografia e Apresentação sobre Aprendizado Semi-Supervisionado
+    Título: Aprendizado Semi-Supervisionado Baseado em Grafos
+    Expostos aqui os métodos de "Propagação de Rótulo" e "Mincut".
+    Breve passagem pela base de aprendizado de máquina e redes complexas.
+        Principais arquivos:
+        ./aprendizado-semi-supervisionado/apresentacao/apresentacao.pdf
+        ./aprendizado-semi-supervisionado/monografia-ssl/ssl-graph.pdf
+        ./aprendizado-semi-supervisionado/apresentacao/apresentacao.tex
+        ./aprendizado-semi-supervisionado/monografia-ssl/ssl-graph.tex
+
+- Monografia, Apresentação e algoritmos de duas aplicação do método de Propagação de Rótulo.
+    Título: Aplicações de Treinamento Semi-Supervisionado em Casos Bipolares de Linguagem Natural
+    Ambas trata de reconhecimento de polaridade em linguagem. Uma em textos
+    e a outra na fala.
+        Principais arquivos:
+        ./trabalho-final-aplicacao/monografia/ssl-bip-pln-monografia.pdf
+        ./trabalho-final-aplicacao/monografia/apresentacao/ssl-pln.pdf
+        ./trabalho-final-aplicacao/monografia/ssl-bip-pln-monografia.tex
+        ./trabalho-final-aplicacao/monografia/apresentacao/ssl-pln.tex
+        ./trabalho-final-aplicacao/monografia/apresentacao/ssl-propagacao-de-rotulo.py
+        ./trabalho-final-aplicacao/monografia/apresentacao/ssl-mincut.py
+
+- Breve texto explicativo e implementação computacional da medida Closeness Vitality.
+    Título: Closeness Vitality - Implementação Individual, da Disciplina SCC5882
+    Implementação em Python de forma reutilizável e bem documentada.
+        Principais arquivos:
+        ./implementacao-individual/closeness-vitality.pdf
+        ./implementacao-individual/closeness-vitality.tex
+        ./implementacao-individual/closeness_vitality.py
+
+****As implementações devem ficar online e podem ser baixadas por qualquer browser ou via Subversion:****
+
+svn co http://svn.assembla.com/svn/audioexperiments/NinjaML/ssl
+
+Existem planos para arrumar a implementação para algo mais reutilizável e compreensível.
+
+rgkttmsfrf 2010.

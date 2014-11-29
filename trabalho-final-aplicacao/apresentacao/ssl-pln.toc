@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.07pt}
+\select@language {brazil}
+\beamer@sectionintoc {2}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Linguagem Natural}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{PLN e Processamento de Fala}{5}{0}{1}
+\beamer@sectionintoc {3}{Extra\IeC {\c c}\IeC {\~a}o de Caracter\IeC {\'\i }sticas}{7}{0}{2}
+\beamer@subsectionintoc {3}{1}{Redes de Palavras}{8}{0}{2}
+\beamer@subsectionintoc {3}{2}{Processamento de Fala}{11}{0}{2}
+\beamer@subsectionintoc {3}{3}{Tratamento dos Dados}{13}{0}{2}
+\beamer@sectionintoc {4}{Reconhecimento de Padr\IeC {\~o}es}{14}{0}{3}
+\beamer@subsectionintoc {4}{1}{Tradicionais}{15}{0}{3}
+\beamer@subsectionintoc {4}{2}{SSL}{16}{0}{3}
+\beamer@sectionintoc {5}{Resultados}{23}{0}{4}
+\beamer@subsectionintoc {5}{1}{Redes de Palavras}{24}{0}{4}
+\beamer@subsectionintoc {5}{2}{Processamento de Fala}{26}{0}{4}
+\beamer@sectionintoc {6}{Discuss\IeC {\~a}o e Desenvolvimentos Futuros}{28}{0}{5}
+\beamer@sectionintoc {7}{Disponibiliza\IeC {\c c}\IeC {\~a}o}{31}{0}{6}
+\beamer@sectionintoc {8}{Bibliografia Principal}{33}{0}{7}
